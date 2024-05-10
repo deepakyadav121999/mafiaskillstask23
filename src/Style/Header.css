@@ -1,0 +1,24 @@
+.header_container{
+    display: flex;
+     justify-content: space-around;
+     align-items: center;
+     background-color: whitesmoke;
+     height: 60px;
+     border-bottom: 0.1px solid rgb(214, 214, 214);
+}
+
+.header_right{
+    display: flex;
+    gap: 20px;
+}
+.logo_img{
+    height: 40px;
+    width: 60px;
+}
+.header_btns{
+  background-color: rgb(29, 150, 29);
+  padding: 6px;
+  width: 80px;
+  text-align: center;
+  border-radius: 5px;
+}
